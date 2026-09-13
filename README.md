@@ -5,7 +5,6 @@
 ```text
 Nya hallo, kinne desu ~
 --------------------------------------------------
-
 𑄝 Just a guy with a whole lot of passions.
 
 𑄝 Major: Electronics & Telecommunications Engineering.
@@ -17,6 +16,5 @@ Nya hallo, kinne desu ~
 𑄝 Vietnamese / English / Japanese.
 
 𑄝 Quite passionate about tech gadgets.
-
 
                   𑄝 I LOVE CAT 𑄝
