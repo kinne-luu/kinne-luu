@@ -16,5 +16,4 @@ Nya hallo, kinne desu ~
 𑄝 Vietnamese / English / Japanese.
 
 𑄝 Quite passionate about tech gadgets.
-
-                  𑄝 I LOVE CAT 𑄝
+            𑄝 I LOVE CAT 𑄝
