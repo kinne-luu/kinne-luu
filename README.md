@@ -3,7 +3,6 @@
 
 <img align="left" src="https://raw.githubusercontent.com/kinne-luu/Storage/refs/heads/main/Kinne/image%201/Screenshot%202026-09-13%2010.09.41.png" width="300" /> 
 
-```
 Nya hallo, kinne desu ~
 -------------------------
 𑄝 Just a guy with a whole lot of passions.
@@ -12,8 +11,11 @@ Nya hallo, kinne desu ~
 𑄝 Keen on Japanese pop culture products.
 𑄝 Vietnamese / English / Japanese.
 𑄝 Quite passionate about tech gadgets.
-𑄝 I LOVE CAT 𑄝
-```
+
+<p align="center">
+  <h1>𑄝 I LOVE CAT 𑄝</h1>
+</p>
+
 </p>
 
 <br>
