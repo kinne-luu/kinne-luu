@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=25&duration=2000&pause=1000&color=AAD3F7&width=435&lines=kinne's+github+pages+%3C3)](https://git.io/typing-svg)
 
-<img align="left" src="https://raw.githubusercontent.com/kinne-luu/Storage/refs/heads/main/Kinne/image%201/Screenshot%202026-09-13%2010.09.41.png" width="300" />
+<img align="left" src="https://raw.githubusercontent.com/kinne-luu/Storage/refs/heads/main/Kinne/image%201/IMG_20260913_102244.png" width="300" />
 
 ```text
 Nya hallo, kinne desu ~
